@@ -1,4 +1,4 @@
-import type { TaskStatus, TaskPriority } from "../types";
+import type { TaskStatus, TaskPriority } from "../../Types";
 
 export function dateDisplay(date: Date): string {
   const year = date.getFullYear();

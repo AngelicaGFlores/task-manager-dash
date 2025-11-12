@@ -1,4 +1,4 @@
-import type { Task } from "../../types";
+import type { Task } from "../../Types";
 import TaskList from "../TaskList/TasksList.tsx";
 
 interface DashBoardProps {
