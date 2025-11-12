@@ -7,7 +7,7 @@ How you implemented React and TypeScript features
 
 The challenges you encountered and how you overcame them
 
-- impporting was confusing at first since I have to get specific for some import likes instead of /types i needed to use /types.tsx
+- importing was confusing at first since I have to get specific for some import likes instead of /types i needed to use /types.tsx
 
 Your approach to component composition and state management
 
