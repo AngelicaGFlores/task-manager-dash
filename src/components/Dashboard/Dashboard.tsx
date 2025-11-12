@@ -1,5 +1,5 @@
 import type { Task } from "../../types";
-import TaskList from "../TaskList/TaskList";
+import TaskList from "../TaskList/TasksList.tsx";
 
 interface DashBoardProps {
 	tasks: Task[];

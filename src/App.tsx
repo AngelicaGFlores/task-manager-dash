@@ -1,6 +1,6 @@
 import { useState } from "react";
-import DashBoard from "./components/Dashboard";
-import type { Task } from "./types";
+import DashBoard from "./components/Dashboard/Dashboard";
+import type { Task } from "./Types/index";
 
 function App() {
 	const [tasks, setTasks] = useState<Task[]>([
